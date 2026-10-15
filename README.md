@@ -1,6 +1,7 @@
 ## Olá!! Eu sou a Manuella
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na ETEC Camargo Aranha e do 2º ano do Ensino Médio.
+
 📚 Estudando inglês na Wizard.
 
 Atualmente, estou desenvolvendo minhas habilidades em lógica de programação e desenvolvimento web.
