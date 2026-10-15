@@ -9,7 +9,6 @@ Tecnologias em estudo
 * HTML
 * CSS
 * JavaScript
-* TypeScript — em fase de aprendizado
 
 Projetos
 
