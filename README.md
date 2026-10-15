@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá!! Eu sou a Manuella
 
-<!--
-**manuellamedeiros/manuellamedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na ETEC Camargo Aranha e do 2º ano do Ensino Médio.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo minhas habilidades em lógica de programação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias em estudo
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript — em fase de aprendizado
+
+Projetos
+
+* Classificador de Triângulos: exercício de lógica de programação com JavaScript.
+* Calculadoras: projetos para praticar operações matemáticas e estruturas condicionais.
+* Página de Produtos: projeto demonstrativo de desenvolvimento web com HTML, CSS e JavaScript.
+
+Objetivo profissional
+
+Continuar aprendendo, desenvolver projetos próprios e conquistar minha primeira oportunidade profissional na área de tecnologia.
+
+Em constante aprendizado e evolução.💗
